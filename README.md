@@ -1,3 +1,4 @@
+```
 how to build it?
   use g++
   (i have not uploaded the source yet) 
@@ -11,3 +12,4 @@ how it works?
   it clicks on a fixxed point on screen to make a window focused;
   it uses windows api;
   its a primitive code;
+```
